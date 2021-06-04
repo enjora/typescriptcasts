@@ -1,4 +1,4 @@
-const drink = {
+const drinkTuples = {
   color: 'brown',
   carbonated: true,
   sugar: 40
